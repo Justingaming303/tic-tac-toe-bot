@@ -14,12 +14,12 @@
 
 
 # Build
-- Node: v14.17.5
+- Node: v16.6.0+
 - discord.js: v13.12.0
 
 # Installation 
 
-To get node, you must install it locally to your computer. Find the download link [here](https://nodejs.org/en/). You may install v14.0.0 or higher for this bot to work.
+To get node, you must install it locally to your computer. Find the download link [here](https://nodejs.org/en/). You may install v16.6.0 or higher for this bot to work.
 
 
 
